@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342890235755",
+    "project_id": "vtrack-ddbea",
+    "storage_bucket": "vtrack-ddbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342890235755:android:f8d885b704a59084a62e2e",
+        "android_client_info": {
+          "package_name": "com.wasimul.vtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342890235755-1kd3cqr8fo45bdlk71rh9mel62f9ns88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wasimul.vtrack",
+            "certificate_hash": "28f71a36291bf179f05e534dec49aca834f58dd1"
+          }
+        },
+        {
+          "client_id": "342890235755-424cvjqop8qkpj9r249vp459na35g5l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbo2X_oNHMBnAjT4OEvt0ZliekGxX9A6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342890235755-424cvjqop8qkpj9r249vp459na35g5l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
